@@ -1,23 +1,14 @@
-## Project 1
-Description
+
+## Work with CNPCs +
+Procedural Generation, Scripting Walkthroughs, AI and other systems I make for fun! 
 - Tags: Category 1
 - Badges:
-  - Badge [blue]
+  - JavaScript [green]
 - Buttons:
-  - Link [https://example.com]
+  - Link to YT Channel [button_link]
+  - Mod Distribution Link [https://modrinth.com/mod/customnpc-plus]
 
-## Project 2
-Description
-- Tags: Category 2
-- Badges:
-  - Badge [blue]
-- Buttons:
-  - Link [https://example.com]
 
-## Project 3
-Description
-- Tags: Category 3
-- Badges:
-  - Badge [blue]
-- Buttons:
-  - Link [https://example.com]
+
+
+  

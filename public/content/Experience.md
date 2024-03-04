@@ -1,29 +1,29 @@
-## Company 1
-- *Role* | Jan'23 - Feb'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 1
+## BA Game Development Programming 
+- | September'2020 - June'2024
+- ![logo512](../assets/images.png)
+- Tags: Education
 - Badges:
-  - Badge [blue]
+  - Completed [green]
 - List Items:
-  - Point 1
-  - Point 2
+  - Practiced Teamwork in a industry-like enviroment with other specialisms.
 
-## Company 2
-- *Role* | Feb'23 - Mar'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 2
+
+## Msc Artifical Intelligence 
+- | September'2024 - June'25
+- ![logo512](../assets/images.png)
+- Tags: Education
 - Badges:
-  - Badge [blue]
+  - Ongoing [yellow]
 - List Items:
-  - Point 1
-  - Point 2
+  - took education further and advanced my own knowledge in my chosen field.
+ 
 
 ## Company 3
 - *Role* | Mar'23 - Apr'23
 - ![logo512](../assets/logo512.png)
 - Tags: Category 3
 - Badges:
-  - Badge [blue]
+  - Ongoing [yellow]
 - List Items:
   - Point 1
   - Point 2
