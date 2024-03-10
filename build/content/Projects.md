@@ -18,9 +18,10 @@ In development - Art by Orlanda Seawright
 
 ## Hellward
 Hellward is a 3D Tower Defense game set in a Hellish landscape in the midst of a war between Angels and Devils. You play as the Archdevil, protecting your land in the last stand against the invading army of angels.
-- ![600x260](../assets/Hellward.jpg)
+- ![600x260](../assets/gnetic.png)
 - Tags: Category 3
 - Badges:
   - Game [green]
 - Buttons:
   - Link [https://joshleighdev.itch.io/hellward]
+

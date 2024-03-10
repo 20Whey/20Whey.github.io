@@ -1,5 +1,5 @@
 
-## Work with CNPCs +
+## Work with CNPCs
 Procedural Generation, Scripting Walkthroughs, AI and other systems I make for fun! 
 - Tags: Category 1
 - Badges:
