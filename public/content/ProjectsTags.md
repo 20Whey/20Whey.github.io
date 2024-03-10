@@ -1,2 +1,2 @@
-Main Category
-PlaceHolder
+Main
+Other
