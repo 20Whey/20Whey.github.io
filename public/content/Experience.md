@@ -15,7 +15,7 @@
 - Badges:
   - Ongoing [yellow]
 - List Items:
-  - took education further and advanced my own knowledge in my chosen field.
+  - Took education further and advanced my own knowledge in my chosen field.
  
 
 ## Company 3

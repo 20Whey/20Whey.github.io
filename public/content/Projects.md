@@ -25,7 +25,7 @@ Hellward is a 3D Tower Defense game set in a Hellish landscape in the midst of a
 - Buttons:
   - Link [https://joshleighdev.itch.io/hellward]
 
-## simple 8 bit genetic algorithm 
+## Simple 8 bit genetic algorithm 
 A simple 'open top' genetic algorithm I created for my COMP 280 project at the end of my second year at falmouth university. All code was written by myself, nothing ground breaking - but I'm proud of it.
 - ![600x260](../assets/gnetic.png)
 - Tags: Other
