@@ -1,6 +1,6 @@
 ## Onions and Dungeons
 Onions and Dungeons is a top-down dungeon crawler. The player must explore the lich’s dungeon killing enemies, solving minigames and finally encountering the lich and beating him in a cook off.
-- ![600x200](https://i.imgur.com/eMU2yx1.png)
+- ![600x200](../assets/FeNwGz.png)
 - Tags: Category 1
 - Badges:
   - Game [green]
